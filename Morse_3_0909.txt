@@ -1,0 +1,1 @@
+Yesterday, we created a folder which Github can access, and see the files that are in the folder. This would allow us to easily turn things in using Github, because the folder is on our computer.
