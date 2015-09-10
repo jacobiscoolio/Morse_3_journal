@@ -1,0 +1,7 @@
+1st create a text file
+
+2nd add the file to git
+
+3rd Then you commit the file with the commit command
+
+4th then youn push the file. 
