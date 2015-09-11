@@ -1,0 +1,23 @@
+Begin
+	
+	prompt user to input name
+
+	set A to be whatever the typer put in
+	
+	print A
+
+Done
+
+
+
+Or
+
+
+
+Begin
+
+	Set A equal to string "Morse"
+
+	Print A
+
+End
