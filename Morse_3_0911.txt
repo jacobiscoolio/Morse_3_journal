@@ -1,0 +1,3 @@
+Pseudocode is basically a fake code that we use to practice real coding. It has all the actual principals of code, but it won't actually work.
+
+We would use this to practice and possibly draft out our programs. This will be an integral part of the problem solving process.  
