@@ -1,0 +1,1 @@
+IDE is a software application that gives special and helpful tools for programmers. It will allow you to put in code, and to tell you what problems are in your code.
