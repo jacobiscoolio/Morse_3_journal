@@ -1,0 +1,11 @@
+The Five Different Java Types are:
+
+Int- used for any whole number E.G. 4,8,0
+
+Float - Used for a decimal number E.G. 4.20348957
+
+Char - Used for a single character E.G. f, A
+
+String - Used for multiple characters E.G. Hello, sfhauf
+
+Boolean - Used for True of False E.G. True False, 1 0
