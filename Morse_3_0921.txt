@@ -1,0 +1,5 @@
+I have recieved credit for all my journals, but i have only recieved 95s on them, so I believe I could do better on the journals I have been doing.
+
+It is important to name the files correctly so that you can find the files very easily without having to search for them.
+
+You can use the cp command to copy a file in linux.
