@@ -1,0 +1,9 @@
+You can count in java by making a for loop then printing all the numbers.
+
+Using an if statement, then using a % symbol with the number you want to check.
+
+With a lot of if statements and checking each number with the % symbol.
+
+
+
+
