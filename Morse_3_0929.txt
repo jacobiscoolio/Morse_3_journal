@@ -1,0 +1,5 @@
+A method is a small part of your code that is used by your program.
+
+They can be used by the program multiple time, and dosen't have to be the only thing the program does.
+
+We can make a small method that finds the prime of the number, and use it with our program.  
