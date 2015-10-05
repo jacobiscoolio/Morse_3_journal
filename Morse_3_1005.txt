@@ -1,0 +1,1 @@
+Code comments are notes you can put in your code. These notes don't do anything, they just help the user wiht anything he wants to remember.
