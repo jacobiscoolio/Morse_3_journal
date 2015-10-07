@@ -1,0 +1,7 @@
+A method is a small section of your code that can be referenced multiple times.
+
+A class that does a specific function that can be used over and over again.
+
+An instance is when a method or class is used.
+
+A method class is method refering to a class.

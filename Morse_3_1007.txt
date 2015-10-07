@@ -1,0 +1,3 @@
+A Java class is a section of Java code that can be referenced throughout the code.
+
+A Java class can be used to to make multiple methods, and instead of referencing the methods, you can reference the class instead of the multiple methods
