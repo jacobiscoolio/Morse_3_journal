@@ -1,0 +1,8 @@
+My plans for my project is to randomly put some cool shapes over my black canvas with some cool colors over that
+
+I could use a for loop that randomly puts circls on a class
+
+A for loop could be used to put more than one random circle on the page
+
+I could use math as coordinaters on the canvas.
+
