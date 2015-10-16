@@ -1,0 +1,4 @@
+	I have made alot of progress on my current Methods Madness Program. I currently only have three methods, but  plan to add more. My methods add a giant black rectangle 
+for my background, I have a method that adds around 12 rectangles around my canvas randomly, and a method that adds 5 transparent rectangles of different colors that act as my 
+gradient until I have one. I plan to add blur to my rectangles, replace my current gradient with a diagonal more natural looking gradient, and replace some of my rectangles
+with more types of shapes. In the end, I hope to make it look like something on your wall.
