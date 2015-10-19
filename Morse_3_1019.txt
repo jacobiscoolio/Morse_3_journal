@@ -1,0 +1,5 @@
+I am almost done with my methods because all I need to do is add more shapes, and possibly even ask the user for input.
+
+I basically just did what you did.
+
+Yes, but I didnt really need it.
