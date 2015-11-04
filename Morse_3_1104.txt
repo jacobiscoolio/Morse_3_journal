@@ -1,0 +1,27 @@
+A method is a small part in your code that can do a specific funtion, and also be referenced throughout your program.
+
+I use 4 methods in my code, static void name, easygame, mediumgame, hardgame, and end. The name method is calledin the main method of my code and asks the user its name. Then the
+easy name is called in the main which plays an easy version of the game. The medium game is called inside of easygame and does a harder game. The hard game is called in the 
+mediumgame method and plays the hardest game. The end method is called in hard game and stops the game sort of.
+
+A while loop is a loop that contunues to loop until a certain thing is no longer true.
+ 
+To use a while loop, you have to create a boolean that is a certain value, true or false, then make sure it loops while that variable is that value.
+
+boolean x = true;
+
+while(x == true){
+System.out.println("This is a while loop");
+}   
+
+To use a counter, you make a while loop, but pass an int, and add or subtrat one to the int every time the program loops.
+
+int x = 5;
+
+while(x > 0){
+x--;
+Sysyem.out.println("You have " + x + " lives left.");
+
+
+}
+
