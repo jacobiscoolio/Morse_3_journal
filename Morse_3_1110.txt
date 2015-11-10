@@ -1,0 +1,5 @@
+You can track what challenges the player has completed by assigning booleans to the challenges and making them true when they are comleted.
+
+You can track HP by making an int, and taking awaya from it when you lose HP
+
+Items are the same as challenges.
