@@ -1,0 +1,3 @@
+In my game, the player must do a multitude of different tasks to win. They have to help the old man when they can,and they must always fight the enemies.
+
+I can track if these have happened with boolean Oldman1 Oldman2 Oldman3 Dagger Armor and Water. 
