@@ -1,0 +1,3 @@
+I was actually no planning to make a while loop, but i could make it so the entire code would be a while loop that keeps repeating to until you win
+
+My methods will tell the story of my game, and ask the user for what they want to do.

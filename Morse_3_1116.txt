@@ -1,0 +1,3 @@
+I will use methods to tell the story of my game, and to prgress through the story.
+
+I son't think I will need to pass anything trhough my methods.

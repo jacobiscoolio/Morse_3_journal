@@ -1,0 +1,27 @@
+digraph simple_map {
+
+A [label="The year is 2058. It has been 28 years since the great drought dried up most of the water in the world and burned the crops. \n The world is desolate desert with only a sparse amount of water to share between the multitude of villages and tribes that need it. \n You have just traded your villages funds to get a bag of the Miracle Seed, a seed that supposedly needs no water, and thrives on the vast heat of the sun. \n You are your villages last hope, and all you have is a small canteen of water, some bandages, and the clothes on your back. \n Can you make it.   "]     // node B 
+B [label="As you walk back to your village, you pass a short old man wearing a black robe. \n He offers you a dagger, a valuable tool in this dangerous bandit infested wasteland. \n All he wants is a handful of your Miracle Seeds. What do you do."]  // node E
+C [label="You make the trade, and continue on your path. \n As you look back you no longer see the old man. \n  You wonder if the heat was playing tricks on your mind, but regardless, you continue on, hoping you didn't make a terrible mistake. \n As you continue on, a group of bandits jump out of no where and demand you give them your water. \n They don't notice your Miracle Seeds or your dagger. What do you do?"]
+D [label="You dont make the trade, and continue on your path. \n As you look back, you see the old man laying on the ground. \n It seems that he has given up, and has let the desert consume him. As you continue, a group of bandits jump out of nowhere and demand your water, but they don't see you Miracle Seeds. What do you do?\n  "]
+E [label="You pull out your dagger and get ready for a fight, but before your first strike, the bandits run off, dropping other things they stole from previous travelers. You pick up a water canteen, an apple, and equip some leather armor. \n You continue on your path, and you see the same old man you gave the seeds to. He asks you for water, but he has nothing to offer. "]
+F [label="You agree, to their demand and give them your water. \n They run off. You continue on your path, and you see the same old man you gave the seeds to. He asks you for water, but he has nothing to offer." ]
+G [label="You run as fast as you can, but it is no use. The bandits catch up to you and kill you."]
+H [label="You agree, to their demand and give them your water. \n They run off. You continue on your path when suddenly a dust storm ravages the land around you. \n After it is finished you look down to find your legs have been sand blasted by the dust storm. You collapse to the ground, and die a slow painful death. "]
+I [label="You pity the man, and give him your recently obtained canteen. He runs off joyful of your deed. \n As you continue, a local group of canabilistic bandits, the flamers, start to run toward you You could either hope to run away, or stand your ground and fight."]
+
+
+
+
+A -> B [label="", fontcolor=darkgreen ]
+B -> C [label="Make the trade", fontcolor=darkgreen ]
+B -> D [label="Don't make the trade" fontcolor=darkgreen ]
+C -> E [label="Attack them"]
+C -> F [label="Agree"]
+D -> G [label="Run away"]
+D -> H [label="Agree"]
+E -> I [label="Accept"]
+E -> J [label="Deny"]
+F -> K [label=""]
+F -> L [label=""]
+}
