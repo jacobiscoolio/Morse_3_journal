@@ -1,0 +1,3 @@
+Overall, I believe that I was very successful in my game. I was able to create my game with all the required elements, and was able to have a fully functional game with, in my 
+opinion. an ok story. My choice system works well, and leads the player through a certain path. My protagonists stats stay consistent, and adds something different the the game. Finally, 
+my while loop ensures the playerr beats the game before it ends 
