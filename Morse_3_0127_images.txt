@@ -1,0 +1,1 @@
+To add an image you use the draw function. For example, sprite.draw and a.currentanime.draw(x, y);
