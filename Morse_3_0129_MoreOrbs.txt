@@ -1,0 +1,8 @@
+A class constructor are variables that are used for the class called at the
+begining of the class.
+
+Size, position, and speed should be class constructors because these determine
+how the orbs work.
+
+doDamage, getShoot, and getIntersection because these will allow the orbs 
+to do damge, be shot from the player, and intersect with the player.  
