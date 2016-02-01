@@ -1,0 +1,4 @@
+I will create a slick game that includes basic enemie that follow you around, 
+and have a single collectable you need to get in order to win.
+
+I have to face the problem that my map is not working correctly.
