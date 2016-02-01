@@ -1,0 +1,11 @@
+I created a basic slick game that involves getting a powerup and getting
+through a multitude of enemies to get the treasure.
+
+I solved the problem that my map would crash my game. I solved this by
+using a different map.
+
+I thought my map was finished, but I never tested it, so when I came back,
+I had to start over.
+
+I was not able to meet the timeline because I did not have my map finished
+by the first day.
