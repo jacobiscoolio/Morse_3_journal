@@ -1,0 +1,2 @@
+I will add more collectibles so that the game is more interesting. I will also, if time allows it, to add a better map so that I have my own textures. I then will clean the game's
+code, so that certain code is where it belongs. 
