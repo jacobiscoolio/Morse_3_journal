@@ -1,0 +1,2 @@
+You would go to the part of the code that checks wether the weapon intersects with the enemy.
+There you can see what happenes when the orb intersects with an enemy.
