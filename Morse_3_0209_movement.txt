@@ -1,0 +1,2 @@
+I will create a string, that checks what direction the player will move, then
+depending on that, I will continually add or subtract from the x or y axis.
