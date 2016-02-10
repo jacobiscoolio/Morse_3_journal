@@ -1,0 +1,9 @@
+1. How can I get my orb to disapear after I shoot it?
+2. How can I stop my orb from changing directions when I move?
+3. Is there a way to make my enemies disapear when I hit them?
+4. why do my enemies grapgically not disapear when I hit them, but they 
+stop doing damage?
+5. How do I get my orb to not go through walls?
+6. Is there a way to make an orb shoot while moving?
+7. What does it mean when an object is static?
+
