@@ -1,0 +1,26 @@
+1. Arrays are used to hold more than value.
+
+2. int[] array = new int[];
+
+3. String[] array = new String[];
+
+4. boolean[] array = new boolean[];
+
+5. double[] array = new double[];
+
+6. int[] array = new int[];
+
+array[0] = 42;
+
+7. String[] array = new String[];
+
+array[0] = "Bob";
+
+8. Declares a String array called desert with 4 values.
+
+9. Assigns the first three values of the String array postres to the three 
+string values
+
+10. The first declares the array, the other initializes the array.
+
+11. postres[2] = "apple pie";
