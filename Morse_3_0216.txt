@@ -1,0 +1,4 @@
+We used in array in our code when we created multiple enemies, and wanted them
+to share the same properties.
+
+We could use an array to make a collection itme, such as coins or stars.
