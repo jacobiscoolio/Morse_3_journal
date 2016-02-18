@@ -1,0 +1,16 @@
+This code provides animation for the character when he moves up.
+
+Because 
+
+An array is an object that holds multiple values
+
+int[] array = new int[];
+
+An array list is a type of array that will hold a list of objects
+
+public ArrayList<Item> stuff = new ArrayList();
+
+An array is an object that holds many values, but an arraylist holds 
+many objects with certain values.
+
+We could create an int, and take away from the int every time it gets hit.
