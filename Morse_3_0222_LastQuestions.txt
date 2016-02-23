@@ -1,0 +1,2 @@
+I'm pretty sure I am ready, but if I had to ask a question, I would how the
+the player is prevented from walking in to the walls?
