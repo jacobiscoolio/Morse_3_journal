@@ -1,0 +1,23 @@
+Rat(int a, int b){
+
+this.x = a;
+this.y = b;
+
+
+}
+
+Rat rat = new Rat();
+
+
+
+The declaration and initialization of the rat is provided by the line
+of code.
+
+
+
+ratslocation[0][0] = 100;
+ratslocation[0][1] = 100;
+ratslocation[1][0] = 100;
+ratslocation[1][1] = 100;
+ratslocation[2][1] = 100;
+ 
