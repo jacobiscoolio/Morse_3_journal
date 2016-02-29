@@ -1,0 +1,4 @@
+This code creates the map based of the different arrays that are provided.
+
+You could put a system.out.print array
+
