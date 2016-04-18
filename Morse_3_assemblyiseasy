@@ -1,0 +1,30 @@
+1. We used the elf64 to make the code executable by the 64 bit os
+2. ld loads the shared libraries that we need to run the code
+3. We don't need chmod because we created the files, so we already have
+permission to execute it.
+4.
+
+global _start
+
+        section .text
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1
+        mov     rdi, 1
+        mov     rsi, message
+        mov     rdx, 15
+        syscall
+
+        ; exit(0)
+        mov     eax, 60
+        xor     rdi, rdi
+        syscall
+message:
+        db      "Jacob Morse", 10
+
+5. All I did was replace the was this easy with my name, then did the
+given commands again.
+
+6. Assembly is not easy, because it requires a lot of code to do very 
+little. It is low level because it is very primitive and requires a lot
+to work.
