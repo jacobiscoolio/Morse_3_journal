@@ -1,0 +1,16 @@
+Assembly is a programming language difficult programming language that gives you full
+control over your computer.
+
+Assembly is good for writing device drivers, operating system design, and embedded 
+systems
+
+Assembly is different from Java because Assembly is focused on processor, and Java isn't.
+
+HIgh level languages are efficient with little code, while low level code isn't.
+
+Java is high level ,because it can do alot with little lines. 
+
+Assembly is low, because low level is complicated and requires a lot to do the same as a
+high level language.
+
+
