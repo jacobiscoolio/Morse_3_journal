@@ -1,0 +1,6 @@
+Some similarities that I noticed are both languages have jumps that
+jump no matter what, and jump depending on the situation.
+
+Some differences that I noticed are that the HRM language relied
+on putting objects in outbox and inboxes, while assembly doesn't
+rely on that.
