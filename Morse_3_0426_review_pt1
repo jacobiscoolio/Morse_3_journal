@@ -1,0 +1,30 @@
+public int number(int x){
+int cubed = x*x*x;	
+return cubed;
+}
+
+void setup(){
+}
+void loop(){
+cubed(3)
+}
+int cubed(int number){
+int sq = number*number;
+int cu = sq*number;
+return cu;
+}
+
+public class Student{
+int grades;
+int age
+int killme;
+}
+
+Student(int a, int b, int c){
+this.grades = a;
+this.age = b;
+this.killme = c;
+}
+
+
+I would actually like to make a game, rather than just making a song.
