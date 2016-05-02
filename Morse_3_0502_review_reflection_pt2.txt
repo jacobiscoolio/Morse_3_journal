@@ -1,0 +1,25 @@
+1. An array is object tah holds many different values.
+
+2. String[3] array = new String[3];
+
+3. int[][] array = new int[2][2];
+
+4. int[][][] array = new int[2][2][2]
+
+5. array[2] = 6;
+
+6. 
+
+7. A while loop ensures that the game will not stop until a certain thing 
+has happened.
+
+8. thegamesmethod(); 
+
+9. So that if they put capitol letters it won't break the code. The scanner
+is case sensitive.
+
+10. Put everthing having to do with the movement in one method and 
+everything having to do with intersection in another
+
+11. The input the player puts in.
+
