@@ -1,0 +1,56 @@
+1.
+public class Ogre{
+
+int x;
+int y;
+int hp =100;
+
+Ogre(int, int b)
+
+this.x = a;
+this.y = b;
+
+}
+}
+
+2.
+Ogre barry = new Ogre;
+barry = new Ogre(1,6);
+
+3.
+public int getX() {
+        return x;
+    }
+
+    public void setX(int x) {
+        this.x = x;
+    }
+
+    p1ublic int getY() {
+    return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+4.
+if (barry.x < player.x) {
+                barry.x += 1;
+} else if (barry.x > player.x) {
+                barry.x -= 1;
+            }
+            if (barry.y < player.y) {
+                barry.y += 1;
+            } else if (barry.y > player.y) {
+                barry.y -= 1;
+            }
+
+5.
+ myArray = new char[20][20];
+        for (int i = 0; i < 3; i++) {
+            for (int a = 0; a < 3; a++) {
+                myArray[i][a] = 'Ogre';
+                
+
+    
