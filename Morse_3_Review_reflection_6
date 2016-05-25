@@ -1,0 +1,17 @@
+Casting is changing the data type of an object.
+Upcasting is changeing a data type to a bigger data type
+Downcasting is changing a data type to a smaller data type
+
+int f;
+float a;
+double d;
+
+
+Upcasting:
+a = f;
+
+
+Downcasting:
+
+
+d =a;
