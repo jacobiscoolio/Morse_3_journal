@@ -1,0 +1,2 @@
+In nested for loops, one for loop is run, as long as long as the other for loop is running. 
+The reason it is called nested, is because one is inside the other.
